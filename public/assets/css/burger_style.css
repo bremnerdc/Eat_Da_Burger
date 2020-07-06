@@ -1,0 +1,18 @@
+.wrapper {
+    background-color: orange;
+}
+
+#burgerPic {
+   margin: auto;
+}
+
+#eatText {
+    margin: auto;
+    padding-bottom: 50px;
+    color: orangered;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+#submitNew {
+    margin: auto;
+}

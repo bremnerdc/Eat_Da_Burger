@@ -37,6 +37,9 @@ Building this application taught me about how working with the MVC design patter
 ## Finished Product
 View deployed Heroku app [here](https://rocky-springs-61534.herokuapp.com/). <br>
 
+![brger2](https://user-images.githubusercontent.com/61300825/90837722-bc33a980-e307-11ea-9938-a3f5aa44f463.gif)
+
+
 ## Questions
 ​
 If you have any questions about the repo, please contact me:
